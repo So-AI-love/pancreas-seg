@@ -22,7 +22,17 @@ We propose a U-Net based approach for pancreas segmentation. Under the same sett
 ### To run the experiment
 --------
 Step 1. Navigate to your project root directory, download the [pancreas segmentation dataset](https://wiki.cancerimagingarchive.net/display/Public/Pancreas-CT), use the [code](https://github.com/198808xc/OrganSegC2F/tree/master/DATA2NPY) to convert the images and annotations to numpy arrays.
-Update: the pncrac dataset uploaded here:
+
+#Update: 
+
+The Colab file could be seen [here](https://github.com/So-AI-love/pancreas-seg/blob/master/Pancreas_Segmentation_in_Abdominal_CT_Scans.ipynb):
+
+![enter image description here][3]
+
+
+  [3]: https://i.stack.imgur.com/J92qS.png
+  
+The pncrac dataset uploaded here:
 ![enter image description here][1]
 
 
