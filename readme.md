@@ -1,6 +1,6 @@
 # Pancreas Segmentation in Abdominal CT Scans
 
-<img src="https://www.tensorflow.org/images/colab_logo_32px.png" alt="Open In Colab" data-canonical-src="https://github.com/So-AI-love/pancreas-seg/blob/master/Pancreas_Segmentation_in_Abdominal_CT_Scans.ipynb">
+[Run in colab](https://github.com/So-AI-love/pancreas-seg/blob/master/Pancreas_Segmentation_in_Abdominal_CT_Scans.ipynb) <img src="https://www.tensorflow.org/images/colab_logo_32px.png" alt="Open In Colab" data-canonical-src="https://github.com/So-AI-love/pancreas-seg/blob/master/Pancreas_Segmentation_in_Abdominal_CT_Scans.ipynb">
  
  
 ### Introduction
