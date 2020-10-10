@@ -1,4 +1,8 @@
 # Pancreas Segmentation in Abdominal CT Scans
+
+<img src="https://www.tensorflow.org/images/colab_logo_32px.png" alt="Open In Colab" data-canonical-src="https://github.com/So-AI-love/pancreas-seg/blob/master/Pancreas_Segmentation_in_Abdominal_CT_Scans.ipynb">
+ 
+ 
 ### Introduction
 ---------
 This is the code repository for the abstract [Pancreas Segmentation in Abdominal CT Scans](http://perfectroc.com/publication/Yijun_ISBI181page_final.pdf) presented at [IEEE International Symposium on Biomedical Imaging (ISBI) 2018](http://biomedicalimaging.org/2018/). The code for data preparation, test and utilities is largely from [OrganSegC2F](https://github.com/198808xc/OrganSegC2F). Please follow their requirements if you want to use the code in your work. There are no restrictions other than this.
